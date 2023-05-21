@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.border{
+    border:5px solid cadetblue;
+    padding:5px;
+    background-color: white;
+    margin-top: 100px;
+    
+    
+    
+    
+   
+}
+
+.white{
+    color:white;
+    
+}
+
+*{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
